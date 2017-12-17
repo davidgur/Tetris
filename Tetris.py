@@ -277,7 +277,6 @@ while inPlay:
                     shapeNo = nextShapeNo
                     nextShapeNo = randint(1, 7)
                     shape = Shape(MIDDLE, TOP, shapeNo)
-                    SCORE += 10
                     shape = Shape(MIDDLE, TOP, shapeNo)
 
             if event.key == pygame.K_SPACE:
