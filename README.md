@@ -5,7 +5,7 @@ clone in Python3.X, using PyGame 1.9.X.
 This game is heavily object oriented, which was the point of the assingment. I still don't feel like I totally understand
 OOP, but I'm sure with enough practice I'll get there.
 
-TODO: Post the mark I get on this assignment
+I ended up getting a 100% on this assignment
 
 ## Prerequisites
 This game runs off of a Python Library called PyGame, and the installation of PyGame is required.
